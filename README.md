@@ -16,6 +16,15 @@
   <a href="#-documentation">Documentation</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Florent-ARENE/ARDUINO-ESP32-KawaPet">
+    <img src="https://img.shields.io/github/stars/Florent-ARENE/ARDUINO-ESP32-KawaPet?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Florent-ARENE/ARDUINO-ESP32-KawaPet/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Florent-ARENE/ARDUINO-ESP32-KawaPet" alt="License">
+  </a>
+</p>
+
 ---
 
 ## ✨ Caractéristiques
@@ -240,7 +249,11 @@ KawaPet/
 
 ## 🤝 Contribution
 
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une Issue ou une Pull Request.
+Les contributions sont les bienvenues ! 
+
+- 🐛 [Signaler un bug](https://github.com/Florent-ARENE/ARDUINO-ESP32-KawaPet/issues)
+- 💡 [Proposer une amélioration](https://github.com/Florent-ARENE/ARDUINO-ESP32-KawaPet/issues)
+- 🔀 [Soumettre une Pull Request](https://github.com/Florent-ARENE/ARDUINO-ESP32-KawaPet/pulls)
 
 ---
 
